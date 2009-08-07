@@ -1,0 +1,33 @@
+body{border:0;margin:0;padding:0;overflow:hidden;background:#ccd1c7;}
+.wrapper{
+  height:600px;
+  width:100%;
+  background : url(/images/bg.png) repeat-x;
+  position:absolute;
+  top:50%;
+  margin-top:-300px;
+}
+.seismic{
+  background: url(/images/seismic.png) repeat-x;
+  height:265px;
+  margin-top:150px;
+}
+
+.logo{
+  background: url(/images/logo.png) no-repeat;
+  width:239px;
+  height:64px;
+  position:absolute;
+  top:215px;
+  left:50px;
+}
+
+.download{
+  display:block;
+  background: url(/images/download.png) no-repeat;
+  height:151px; width:151px;
+  position:absolute;
+  top:288px;
+  left:144px;
+}
+
