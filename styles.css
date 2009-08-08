@@ -31,3 +31,19 @@ body{border:0;margin:0;padding:0;overflow:hidden;background:#ccd1c7;}
   left:144px;
 }
 
+.copy{
+  color:#4B4848;
+  font-family:helvetica,arial,sans-serif;
+  font-size:14px;
+  left:312px;
+  line-height:20px;
+  position:absolute;
+  text-align:justify;
+  top:327px;
+  width:456px;
+}
+
+  .copy a, .copy a:visited, .copy a:active, .copy a:hover{
+    color:#6F4C4C;
+  }
+
