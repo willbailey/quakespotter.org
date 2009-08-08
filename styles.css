@@ -4,8 +4,7 @@ body{border:0;margin:0;padding:0;background:#ccd1c7;}
   width:100%;
   background : url(/images/bg.png) repeat-x;
   position:absolute;
-  top:50%;
-  margin-top:-300px;
+  top:-140px;
 }
 .seismic{
   background: url(/images/seismic.png) repeat-x;
@@ -38,7 +37,7 @@ body{border:0;margin:0;padding:0;background:#ccd1c7;}
   padding:10px;
   width:436px;
   height:447px;
-  margin-top:50px;
+  margin-top:30px;
   margin-left:312px;
   margin-bottom:20px;
 }
