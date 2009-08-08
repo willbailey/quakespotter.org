@@ -1,4 +1,4 @@
-body{border:0;margin:0;padding:0;overflow:hidden;background:#ccd1c7;}
+body{border:0;margin:0;padding:0;background:#ccd1c7;}
 .wrapper{
   height:600px;
   width:100%;
@@ -29,6 +29,18 @@ body{border:0;margin:0;padding:0;overflow:hidden;background:#ccd1c7;}
   position:absolute;
   top:288px;
   left:144px;
+}
+
+.screenshot{
+  background:url(/images/screenshot.png) #444 10px 10px no-repeat;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  padding:10px;
+  width:436px;
+  height:447px;
+  margin-top:50px;
+  margin-left:312px;
+  margin-bottom:20px;
 }
 
 .copy{
