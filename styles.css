@@ -2,18 +2,18 @@ body{border:0;margin:0;padding:0;background:#ccd1c7;}
 .wrapper{
   height:600px;
   width:100%;
-  background : url(/images/bg.png) repeat-x;
+  background : url(images/bg.png) repeat-x;
   position:absolute;
-  top:-140px;
+  top:-160px;
 }
 .seismic{
-  background: url(/images/seismic.png) repeat-x;
+  background: url(images/seismic.png) repeat-x;
   height:265px;
   margin-top:150px;
 }
 
 .logo{
-  background: url(/images/logo.png) no-repeat;
+  background: url(images/logo.png) no-repeat;
   width:239px;
   height:64px;
   position:absolute;
@@ -23,21 +23,21 @@ body{border:0;margin:0;padding:0;background:#ccd1c7;}
 
 .download{
   display:block;
-  background: url(/images/download.png) no-repeat;
+  background: url(images/download.png) no-repeat;
   height:151px; width:151px;
   position:absolute;
-  top:288px;
+  top:310px;
   left:144px;
 }
 
 .screenshot{
-  background:url(/images/screenshot.png) #444 10px 10px no-repeat;
+  background:url(images/screenshot.png) #aab1a7 10px 10px no-repeat;
   -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
   padding:10px;
   width:436px;
   height:447px;
-  margin-top:30px;
+  margin-top:65px;
   margin-left:312px;
   margin-bottom:20px;
 }
@@ -47,10 +47,10 @@ body{border:0;margin:0;padding:0;background:#ccd1c7;}
   font-family:helvetica,arial,sans-serif;
   font-size:14px;
   left:312px;
-  line-height:20px;
+  line-height:19px;
   position:absolute;
   text-align:justify;
-  top:327px;
+  top:307px;
   width:456px;
 }
 
